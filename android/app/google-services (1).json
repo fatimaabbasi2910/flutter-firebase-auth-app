@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885245504058",
+    "project_id": "user-authentication-demo-a43d9",
+    "storage_bucket": "user-authentication-demo-a43d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885245504058:android:8ca6cd597c41e54b5c6303",
+        "android_client_info": {
+          "package_name": "com.innovatedy.user_authentication_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmb1L05Pnls9HDuf4fVKbkPTHFD4cKYpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
